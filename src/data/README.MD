@@ -1,0 +1,1 @@
+the files in this folder is retrieved from https://github.com/trevorld/Hanzi_Stats
